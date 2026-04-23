@@ -1,0 +1,2 @@
+# viewPure.sol
+viewPure.sol
